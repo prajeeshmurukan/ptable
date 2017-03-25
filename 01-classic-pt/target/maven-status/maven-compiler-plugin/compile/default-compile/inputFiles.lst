@@ -1,0 +1,6 @@
+/root/01-classic-pt/src/com/dataextractor/periodictable/PeriodicTableExtractor.java
+/root/01-classic-pt/src/com/dataextractor/entrypoint/main/PeriodicTableExtractorEntryPoint.java
+/root/01-classic-pt/src/com/dataextractor/periodictable/model/Element.java
+/root/01-classic-pt/src/com/dataextractor/framework/IDataExtractor.java
+/root/01-classic-pt/src/com/dataextractor/periodictable/PeriodicTableExtractorTest.java
+/root/01-classic-pt/src/com/dataextractor/periodictable/model/PeriodicTable.java

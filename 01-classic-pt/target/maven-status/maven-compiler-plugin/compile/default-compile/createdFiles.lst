@@ -1,0 +1,6 @@
+com/dataextractor/periodictable/PeriodicTableExtractorTest.class
+com/dataextractor/periodictable/model/PeriodicTable.class
+com/dataextractor/periodictable/PeriodicTableExtractor.class
+com/dataextractor/framework/IDataExtractor.class
+com/dataextractor/entrypoint/main/PeriodicTableExtractorEntryPoint.class
+com/dataextractor/periodictable/model/Element.class
